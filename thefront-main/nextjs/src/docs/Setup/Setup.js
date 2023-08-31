@@ -497,7 +497,7 @@ const Setup = () => {
                   }}
                 >
                   <code>/src/demos</code>.{' '}
-                  <a href="/demos" target="blank">
+                  <a href="/pages/demos" target="blank">
                     Learn more
                   </a>
                 </Typography>

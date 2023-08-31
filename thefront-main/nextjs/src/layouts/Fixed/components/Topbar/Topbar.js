@@ -47,7 +47,7 @@ const Topbar = ({ onSidebarOpen }) => {
           <Link
             underline="none"
             component="a"
-            href="/thefront-main/nextjs/src/pages/home"
+            href="/pages/home"
             color="text.primary"
           >
             Pages
@@ -67,7 +67,7 @@ const Topbar = ({ onSidebarOpen }) => {
           <Link
             underline="none"
             component="a"
-            href="/demos"
+            href="/pages/demos"
             color="text.primary"
           >
             Demos
